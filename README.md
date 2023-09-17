@@ -1,7 +1,7 @@
 # ux310u-dotfiles-arch-hyprland
 короч
 
-чтобы дрова на нвидию воркали в хипленде, надо просто качнуть nvidia-dksm и добавить флаг nvidia_drm.modeset=1 в конец этой строки >> "GRUB_CMDLINE_LINUX_DEFAULT=" , которая находится в /etc/default/grub
+чтобы дрова на нвидию воркали в хипленде, надо просто качнуть nvidia-dkms и добавить флаг nvidia_drm.modeset=1 в конец этой строки >> "GRUB_CMDLINE_LINUX_DEFAULT=" , которая находится в /etc/default/grub
 
 
 
